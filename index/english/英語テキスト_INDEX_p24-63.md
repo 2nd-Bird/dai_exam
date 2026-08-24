@@ -26,14 +26,14 @@
 | E00 | 24 | Starter語彙 | 国・地域、身の回りの物、施設の語彙を見て意味が取れる | B | 未 |
 | E01 | 25–27 | About Me / 自己紹介 | `I am ... / I like ... / I play ...`、often / sometimes、`be good at ...`、短い自己紹介文を読む | A | 触（DAY1） |
 | E02 | 28–29 | 質問と否定 | `Are you ...?` と `Do you ...?`、短答、`I am not ... / I do not ...` | A | 要確認（DAY2作成済） |
-| E03 | 30–31 | What質問・日常 | `What do you do ...? / What ... do you like?`、often、weekends、take pictures / watch / read など | A | 未 |
+| E03 | 30–31 | What質問・日常 | `What do you do ...? / What ... do you like?`、often、weekends、take pictures / watch / read など | A | 1周相当（DAY4・即時想起弱） |
 | E04 | 32–33 | Self-study / 単語の意味の調べ方 | 文脈・辞書・品詞から語義を選ぶ。`plan` など多義語 | C | 未 |
 | E05 | 34 | Words & Sounds 1 | 0–1000、11–19、20–90、21型、100/1000 | B | 未 |
-| E06 | 35–37 | My Hero | he / she / it を使う人物紹介、`can`、favorite、`her` などを含む短文読解 | A | 未 |
-| E07 | 38–39 | 得意なこと | `Can you ...? / I can ... / I cannot(can't) ...`、`How many ...?` | A | 要確認（DAY3作成済） |
-| E08 | 40–41 | My Heroまとめ / Language Focus 1 | 肯定・否定・疑問文の区別、名詞、a/an、単数・複数、数えられる/られない名詞 | A | 未 |
+| E06 | 35–37 | My Hero | he / she / it を使う人物紹介、`can`、favorite、`her` などを含む短文読解 | A | 触（DAY5・対話で理解進行） |
+| E07 | 38–39 | 得意なこと | `Can you ...? / I can ... / I cannot(can't) ...`、`How many ...?` | A | 1周（DAY3・口頭利用○） |
+| E08 | 40–41 | My Heroまとめ / Language Focus 1 | 肯定・否定・疑問文の区別、名詞、a/an、単数・複数、数えられる/られない名詞 | A | 触（DAY5・対話で理解進行） |
 | E09 | 42 | Words & Sounds 2 | 月、序数、日付、誕生日 `My birthday is July 14.` | B | 未 |
-| E10 | 43–45 | My Treasure 導入〜Part1 | `This is ... / That is ... / This is not ... / That is not ...`、身近な物・場所 | A | 未 |
+| E10 | 43–45 | My Treasure 導入〜Part1 | `This is ... / That is ... / This is not ... / That is not ...`、身近な物・場所 | A | 触（DAY5・対話で理解進行） |
 | E11 | 46–47 | My Treasure Part2 | `What is this? / Is it ...?`、`your`、物の説明、`It's a gift from ...` | A | 未 |
 | E12 | 48–49 | My Treasure Part3 | `Who is ...?`、he/she、him/her、favorite character、人物紹介 | A | 未 |
 | E13 | 50–52 | Goal Activity / Language Focus 2 | be動詞・一般動詞・canの統合、命令文、否定命令、what/how many/who/when/where | A | 未 |
@@ -46,7 +46,7 @@
 
 ---
 
-## DAY1〜3の再評価
+## DAY1〜5の再評価
 
 ### DAY1
 - `I am / I like / I play` は扱った。
@@ -58,9 +58,18 @@
 - 実施結果が未確認なので `要確認`。実施済みなら結果に応じて1周判定する。
 
 ### DAY3
-- p38–39 の `can / cannot / Can you ...?` を扱う設計。
-- 内容のページ対応は合っている。
-- ただしDAY3プリントの「Lesson 1 Part 2」という表記は教科書構成と一致しない。教科書p28–29がLesson 1 Part 2であるため、以後はページとINDEX IDを正本にする。
+- p38–39 の `can / cannot / Can you ...?` を扱った。
+- 父との状況演出つきで口頭利用まで確認できたため、E07は1周。
+- ただし即時想起・自発筆記は別軸で弱い。
+
+### DAY4
+- E03の `What do you do ...?` を構造分解しながら理解。
+- 構造理解は速く、1周相当。ただし演習量が少なく即時想起は弱い。
+
+### DAY5
+- E06 / E08 / E10を状況付きプリント + 父との対話で扱った。
+- 対話中の理解は良いが、ヒントなしで確実に答えられる範囲はまだ狭い。
+- 現状は `触・理解進行` とし、後続DAYの新文脈で薄く再使用する。
 
 ---
 
