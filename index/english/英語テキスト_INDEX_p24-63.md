@@ -34,9 +34,9 @@
 | E08 | 40–41 | My Heroまとめ / Language Focus 1 | 肯定・否定・疑問文の区別、名詞、a/an、単数・複数、数えられる/られない名詞 | A | 触（DAY5・対話で理解進行） |
 | E09 | 42 | Words & Sounds 2 | 月、序数、日付、誕生日 `My birthday is July 14.` | B | 未 |
 | E10 | 43–45 | My Treasure 導入〜Part1 | `This is ... / That is ... / This is not ... / That is not ...`、身近な物・場所 | A | 触（DAY5・対話で理解進行） |
-| E11 | 46–47 | My Treasure Part2 | `What is this? / Is it ...?`、`your`、物の説明、`It's a gift from ...` | A | 未 |
-| E12 | 48–49 | My Treasure Part3 | `Who is ...?`、he/she、him/her、favorite character、人物紹介 | A | 未 |
-| E13 | 50–52 | Goal Activity / Language Focus 2 | be動詞・一般動詞・canの統合、命令文、否定命令、what/how many/who/when/where | A | 未 |
+| E11 | 46–47 | My Treasure Part2 | `What is this? / Is it ...?`、`your`、物の説明、`It's a gift from ...` | A | 1周相当（DAY6・概ね正答） |
+| E12 | 48–49 | My Treasure Part3 | `Who is ...?`、he/she、him/her、favorite character、人物紹介 | A | 1周相当（DAY6・概ね正答） |
+| E13 | 50–52 | Goal Activity / Language Focus 2 | be動詞・一般動詞・canの統合、命令文、否定命令、what/how many/who/when/where | A | 触（DAY6・疑問文系○、命令形要フォロー） |
 | E14 | 53–54 | Take Action — 道案内・町の案内図 | `How can I get to ...? / go straight / turn left/right / second corner / Where is ...?`、地図読解 | B | 未 |
 | E15 | 55 | 夏休み旅行導入 | 行きたい場所・旅行語彙、地図・施設情報の読み取り | B | 未 |
 | E16 | 56–57 | 昨年の夏休みの思い出 | 過去形 `went / enjoyed / saw / was / ate`、last summer/year、短い過去の出来事を読む・書く | A | 未 |
@@ -46,7 +46,7 @@
 
 ---
 
-## DAY1〜5の再評価
+## DAY1〜6の再評価
 
 ### DAY1
 - `I am / I like / I play` は扱った。
@@ -70,6 +70,12 @@
 - E06 / E08 / E10を状況付きプリント + 父との対話で扱った。
 - 対話中の理解は良いが、ヒントなしで確実に答えられる範囲はまだ狭い。
 - 現状は `触・理解進行` とし、後続DAYの新文脈で薄く再使用する。
+
+### DAY6
+- E11 / E12 / E13を状況付きプリントで実施し、ほぼ全体を記入、概ね正答。
+- E11 `What is this? / Is it ...?`、E12 `Who is ...? / he/she/him/her` は1周相当。
+- E13は Are / Do / Can と疑問詞は概ね通ったが、`Be careful.` など be動詞を使う命令形は未学習で推測回答。命令文だけ後続DAYで短くフォローする。
+- 教材開始後、ゲーム `The Isle` で英語チャットが少しずつ成立し、本人が実使用を楽しいと感じている。実使用を動機づけとして活用する。
 
 ---
 
