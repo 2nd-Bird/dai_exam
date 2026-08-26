@@ -39,7 +39,7 @@
 | E13 | 50–52 | Goal Activity / Language Focus 2 | be動詞・一般動詞・canの統合、命令文、否定命令、what/how many/who/when/where | A | 触（DAY6・疑問文系○、命令形要フォロー） |
 | E14 | 53–54 | Take Action — 道案内・町の案内図 | `How can I get to ...? / go straight / turn left/right / second corner / Where is ...?`、地図読解 | B | 未 |
 | E15 | 55 | 夏休み旅行導入 | 行きたい場所・旅行語彙、地図・施設情報の読み取り | B | 未 |
-| E16 | 56–57 | 昨年の夏休みの思い出 | 過去形 `went / enjoyed / saw / was / ate`、last summer/year、短い過去の出来事を読む・書く | A | 未 |
+| E16 | 56–57 | 昨年の夏休みの思い出 | 過去形 `went / enjoyed / saw / was / ate`、last summer/year、短い過去の出来事を読む・書く | A | 1周相当（DAY7・対比＋音で理解、即時想起は要反復） |
 | E17 | 58–60 | 今年の夏休みの希望 | `Where do you want to go? / I want to ...`、also、summer festival、予定リスト | A | 未 |
 | E18 | 61 | Self-study 3 | 単語の増やし方、発音・意味・使用をつなぐ学習法 | C | 未 |
 | E19 | 62–63 | Food Court / 注文 | `What would you like? / I'd like ... / Do you want anything with it? / How much is the total?`、メニュー語彙・注文 | B | 未 |
@@ -76,6 +76,13 @@
 - E11 `What is this? / Is it ...?`、E12 `Who is ...? / he/she/him/her` は1周相当。
 - E13は Are / Do / Can と疑問詞は概ね通ったが、`Be careful.` など be動詞を使う命令形は未学習で推測回答。命令文だけ後続DAYで短くフォローする。
 - 教材開始後、ゲーム `The Isle` で英語チャットが少しずつ成立し、本人が実使用を楽しいと感じている。実使用を動機づけとして活用する。
+
+
+### DAY7
+- E16の過去形を実施。プリントはほぼ全体を完了。
+- 初見では曖昧だったが、現在形 / 過去形をマトリクス状に並べ、意味と音を往復すると理解した。
+- `see→saw / is→was / eat→ate / go→went` などを発音反復して1周相当。
+- 即時想起はまだ弱いため2周目で別文脈から再使用する。紙上の問題数は増やさない。
 
 ---
 
