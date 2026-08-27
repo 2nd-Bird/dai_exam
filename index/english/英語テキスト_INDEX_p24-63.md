@@ -37,10 +37,10 @@
 | E11 | 46–47 | My Treasure Part2 | `What is this? / Is it ...?`、`your`、物の説明、`It's a gift from ...` | A | 1周相当（DAY6・概ね正答） |
 | E12 | 48–49 | My Treasure Part3 | `Who is ...?`、he/she、him/her、favorite character、人物紹介 | A | 1周相当（DAY6・概ね正答） |
 | E13 | 50–52 | Goal Activity / Language Focus 2 | be動詞・一般動詞・canの統合、命令文、否定命令、what/how many/who/when/where | A | 触（DAY6・疑問文系○、命令形要フォロー） |
-| E14 | 53–54 | Take Action — 道案内・町の案内図 | `How can I get to ...? / go straight / turn left/right / second corner / Where is ...?`、地図読解 | B | 未 |
-| E15 | 55 | 夏休み旅行導入 | 行きたい場所・旅行語彙、地図・施設情報の読み取り | B | 未 |
+| E14 | 53–54 | Take Action — 道案内・町の案内図 | `How can I get to ...? / go straight / turn left/right / second corner / Where is ...?`、地図読解 | B | 要確認（DAY8実施済・未採点） |
+| E15 | 55 | 夏休み旅行導入 | 行きたい場所・旅行語彙、地図・施設情報の読み取り | B | 要確認（DAY8実施済・未採点） |
 | E16 | 56–57 | 昨年の夏休みの思い出 | 過去形 `went / enjoyed / saw / was / ate`、last summer/year、短い過去の出来事を読む・書く | A | 1周相当（DAY7・対比＋音で理解、即時想起は要反復） |
-| E17 | 58–60 | 今年の夏休みの希望 | `Where do you want to go? / I want to ...`、also、summer festival、予定リスト | A | 未 |
+| E17 | 58–60 | 今年の夏休みの希望 | `Where do you want to go? / I want to ...`、also、summer festival、予定リスト | A | 要確認（DAY8実施済・未採点） |
 | E18 | 61 | Self-study 3 | 単語の増やし方、発音・意味・使用をつなぐ学習法 | C | 未 |
 | E19 | 62–63 | Food Court / 注文 | `What would you like? / I'd like ... / Do you want anything with it? / How much is the total?`、メニュー語彙・注文 | B | 未 |
 
