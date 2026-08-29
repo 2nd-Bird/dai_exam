@@ -27,6 +27,7 @@
 - `curriculum/english/英語_定期考査_2周実行計画_2026-09-10.md`
 - `curriculum/english/` 内の最新の実績反映プラン
 - `index/english/英語テキスト_INDEX_p24-63.md`
+- `index/english/英語語彙_INDEX_p24-63.md` **（必須。実際の教科書語彙・表現の正本）**
 - `progress/english.md`
 - `learner/learning_conditions.md`
 - `worksheets/english/` の直近DAY
@@ -56,6 +57,8 @@
 問題作成時の第一参照先は、**GitHub上の `index/`、`curriculum/`、`progress/`、`worksheets/`** とする。
 
 `index/` は全文転記ではなく、教科書をページ・概念・問題型・技能単位に構造化した教材生成用MDである。現時点で、教科書全ページの逐語的全文MarkdownはGitHubには置いていない。
+
+**英語は例外的に語彙の取りこぼしが重大なので、文法INDEXだけで問題を作ってはいけない。** `index/english/英語語彙_INDEX_p24-63.md` を必ず併読し、その日の対象ページの語彙を問題文・選択肢・日本語→英語に実際に使う。語彙INDEXが未整備／抽象カテゴリしかない場合は、該当ページの元スキャンを確認してから出題する。
 
 ### スキャンPDFは必要なページだけ
 
