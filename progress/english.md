@@ -167,3 +167,17 @@ Source of Truth: `../index/english/英語テキスト_INDEX_p24-63.md`
 - DAY12はE09-E13を主対象にしつつ、DAY11語彙（firefighter / popular / voice / uncle / Chinese / speak / piece / move / forward など）を新しい文脈へ混ぜる。
 - p42-49の未回収語彙を新規投入する。
 - 説明ブロックは増やさず、問題の中で再遭遇させる。
+
+
+## DAY13 — TRANSFORM THE SAME MATERIAL
+
+### 実施状況
+- 9/3夕方まで未着手。
+- 夕方は意欲が立ち上がらず、目が座った状態でほぼ何もできなかった。
+- 問題内容そのものの理解判定はできない。
+
+### 判定
+- DAY13を未実施プリントとして翌日にそのまま積まない。
+- DAY13で回収予定だった E13-E15 / E19 と p50-55 / p62-63語彙は、DAY14へ**素材を変えて吸収**する。
+- DAY14本来の E16-E17 / p56-61も同時に扱うが、紙上の問題量を2DAY分には増やさない。
+- 同じSVO素材を固定し、肯定 / can / Can...? / Do...? / 否定 / WH / 過去 / want to へ変形することで、複数INDEXを同時に再使用する。
