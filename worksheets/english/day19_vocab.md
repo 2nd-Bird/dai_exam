@@ -1,4 +1,4 @@
-# 英語 FINAL VOCAB MEMORY 2 — 能動30 + 高速認識80
+# 英語 FINAL VOCAB MEMORY 2 — 能動30 + 高速認識120
 
 実施予定: 2026-09-08  
 位置づけ: DAY18単語暗記の第2弾。綴り全般の完成は狙わず、**重要語は日本語→英語、残りは英語→意味**で範囲を広く回収する。  
@@ -12,7 +12,7 @@
 4. 出なかった語だけ答えを見る → 声で3回 → もう一度隠す。
 5. 綴りは無理に全部書かない。
 
-### PAGE 2 — RECOGNITION 80
+### PAGE 2 — RECOGNITION 120
 - 英語を見て、日本語の意味がすぐ出れば○。
 - 3秒で出なければ△。
 - △だけ2周目。
@@ -64,23 +64,27 @@
 
 ---
 
-# PAGE 2 — RECOGNITION 80 / 英語→日本語
+# PAGE 2 — RECOGNITION 120 / 英語→日本語
 
-## A. Starter p24 — 国・物・施設 32
-Australia / Brazil / Canada / China / France / India / Japan / South Korea / Spain / the U.K. / the U.S.A. / Germany  
-bag / book / clock / computer / hat / notebook / pen / pencil / pencil case / ruler / scissors / watch  
-hospital / museum / restaurant / shrine / stadium / station / temple / zoo
+## A. Starter / Lesson 1 — 30
+Australia / Brazil / Canada / China / France / India / Japan / South Korea / Spain / the U.K.  
+the U.S.A. / Germany / Egypt / Kenya / Singapore / Ghana / Peru / Thailand / Italy / Russia  
+Turkey / sports / English / fan / club / dance / action / anime / manga / pet
 
-## B. Numbers / Months 16
-thirteen / fourteen / twenty / thirty / forty / fifty / one hundred / one thousand  
-January / March / April / June / August / September / October / December
+## B. Things / Facilities / Numbers — 30
+bag / book / clock / computer / hat / notebook / pen / pencil / pencil case / ruler  
+scissors / watch / cap / pants / cup / shoes / eraser / T-shirt / hospital / museum  
+restaurant / shrine / stadium / station / temple / zoo / thirteen / thirty / one hundred / one thousand
 
-## C. My Hero / Nouns 12
-firefighter / smile / skateboard / singer / song / teach / kanji / uncle / apple / box / child / fish
+## C. Months / Hero / Nouns — 30
+January / March / April / June / August / September / October / December / firefighter / smile  
+skateboard / singer / song / teach / kanji / uncle / apple / box / child / fish  
+water / paper / tennis / music / open / shop / zucchini / Indian / online / room
 
-## D. My Treasure / Take Action / Summer / Food Court 20
+## D. Treasure / Map / Summer / Food — 30
 gate / blackboard / traditional / instrument / late / street / ticket / adult / available / parking  
-city museum / last summer / view / hiking / dessert / clerk / counter / salad / shrimp / garlic
+city museum / last summer / view / hiking / dessert / clerk / counter / salad / shrimp / garlic  
+police station / takeout / staff / hometown / cousin / different / topping / boiled egg / avocado / cheesecake
 
 ## 2枚でのカバー範囲
 DAY18単語暗記:
@@ -88,9 +92,9 @@ DAY18単語暗記:
 
 今回:
 - ACTIVE 30 = **30項目**
-- RECOGNITION 80 = **80項目**
+- RECOGNITION 120 = **120項目**
 
-重複をできるだけ避けているため、2枚で**約130項目の語・語句へ直接触れる**。
+重複をできるだけ避けているため、2枚で**約170項目の語・語句へ直接触れる**。
 
 ただし語彙INDEX全体には、p24 Starterだけで53語句、p34の数字体系、p42の12か月 + 1〜31日の序数、p54地図の詳細語、p62-63メニュー食材などがあり、全掲載語句を2枚で完全網羅することはできない。
 
