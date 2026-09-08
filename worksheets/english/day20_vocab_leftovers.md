@@ -1,0 +1,346 @@
+# 英語 DAY20 — FINAL VOCAB LEFTOVERS / 未カバー語句の最終確認
+
+実施予定: 2026-09-09  
+参照: `index/english/英語語彙_INDEX_p24-63.md`  
+位置づけ: DAY18単語20項目 + DAY19単語150項目では、教科書語彙INDEX全体は完全網羅していない。**前2枚で扱っていない語・語句を中心に、最後は英語→意味の認識だけで一度通す。**
+
+## 使い方
+- ここは**綴りを書かない**。
+- 英語を見て、日本語の意味が3秒以内に出れば○。
+- 出なければ答えを見る → 声で1回 → 次へ。
+- 数字・月・序数はテストに出やすいので優先。
+- DAY18 / DAY19単語プリントと重なる語は原則省いたが、派生形・重要表現は再掲する。
+
+---
+
+# PAGE 1 — p24-42 残り
+
+## Starter / Lesson 1
+- amusement park = 遊園地
+- castle = 城
+- house = 家
+- elementary school = 小学校
+- junior high school = 中学校
+- about = 〜について
+- me = 私を / 私に
+- Ms. = 〜さん（女性）
+- uh-huh = うん
+- too = 〜も
+- am = be動詞（Iと使う）
+- hi = やあ
+- game(s) = ゲーム
+- on = 〜の上に / 〜に
+- at = 〜で / 〜に
+- in = 〜の中に / 〜で
+- meet = 会う
+- you = あなた
+- Cool! = いいね / かっこいい
+- Nice! = いいね
+- Great! = すごい
+- Really? = 本当？
+- Wow! = わあ！
+- Oh, no! = しまった / そんな
+- I see. = なるほど
+- Me, too. = 私も
+- soccer = サッカー
+- soccer games = サッカーの試合
+- TV = テレビ
+- read books = 本を読む
+- in English = 英語で
+- Nice to meet you. = はじめまして
+- every = 毎〜
+- do not / don't = 〜しない
+- after = 〜の後で
+- hip-hop = ヒップホップ
+- dancer = ダンサー
+- are = be動詞（you / 複数と使う）
+- yes = はい
+- not = 〜ではない / 〜しない
+- day = 日
+- school = 学校
+- take dance lessons = ダンスのレッスンを受ける
+- Sundays = 日曜日ごとに
+- basketball = バスケットボール
+- baseball = 野球
+- rock = ロック
+- at home = 家で
+- take a picture = 写真を1枚撮る
+- look at = 〜を見る
+- J-pop = J-POP
+- what = 何
+- of = 〜の
+- look = 見る
+- this = これ
+- have = 持っている
+- an = 1つの（母音で始まる名詞の前）
+- animal(s) = 動物
+- iguana(s) = イグアナ
+
+## My Hero / Numbers
+- love = 大好きである / 愛する
+- flavor = 味
+- tablet = タブレット
+- many = たくさんの
+- plan = 計画
+- zero = 0
+- one = 1
+- two = 2
+- three = 3
+- four = 4
+- five = 5
+- six = 6
+- seven = 7
+- eight = 8
+- nine = 9
+- ten = 10
+- eleven = 11
+- twelve = 12
+- fourteen = 14
+- fifteen = 15
+- sixteen = 16
+- seventeen = 17
+- eighteen = 18
+- nineteen = 19
+- twenty = 20
+- twenty-one = 21
+- twenty-two = 22
+- forty = 40
+- fifty = 50
+- sixty = 60
+- seventy = 70
+- eighty = 80
+- ninety = 90
+- one hundred and one = 101
+- she's = she is
+- her = 彼女の / 彼女を
+- it's = it is
+- she = 彼女
+- can = 〜できる
+- very = とても
+- well = 上手に
+- he = 彼
+- is = 〜です
+- it = それ
+- please = どうぞ / 〜してください
+- kind = 親切な
+- brave = 勇敢な
+- run fast = 速く走る
+- play the guitar = ギターを弾く
+- listen to = 〜を聞く
+- cannot / can't = 〜できない
+- sure = もちろん
+- space = 空間 / スペース
+- shogi = 将棋
+- wheelchair basketball = 車いすバスケットボール
+- he's = he is
+- language(s) = 言語
+- his = 彼の
+- Japanese = 日本語 / 日本人
+- cat = 猫
+- sandwich / sandwiches = サンドイッチ
+- cherry / cherries = さくらんぼ
+- foot / feet = 足
+- sheep = 羊（複数も同じ形）
+- book / books = 本
+- bag / bags = バッグ
+- child / children = 子ども
+- fish = 魚（複数も同じ形）
+
+## Months / Ordinals
+- February = 2月
+- May = 5月
+- July = 7月
+- November = 11月
+- first = 1日 / 第1
+- second = 2日 / 第2
+- third = 3日 / 第3
+- fourth = 4日 / 第4
+- fifth = 5日 / 第5
+- sixth = 6日 / 第6
+- seventh = 7日 / 第7
+- eighth = 8日 / 第8
+- ninth = 9日 / 第9
+- tenth = 10日 / 第10
+- eleventh = 11日 / 第11
+- twelfth = 12日 / 第12
+- thirteenth = 13日 / 第13
+- fourteenth = 14日 / 第14
+- fifteenth = 15日 / 第15
+- sixteenth = 16日 / 第16
+- seventeenth = 17日 / 第17
+- eighteenth = 18日 / 第18
+- nineteenth = 19日 / 第19
+- twentieth = 20日 / 第20
+- twenty-first = 21日 / 第21
+- twenty-second = 22日 / 第22
+- twenty-third = 23日 / 第23
+- twenty-fourth = 24日 / 第24
+- twenty-fifth = 25日 / 第25
+- twenty-sixth = 26日 / 第26
+- twenty-seventh = 27日 / 第27
+- twenty-eighth = 28日 / 第28
+- twenty-ninth = 29日 / 第29
+- thirtieth = 30日 / 第30
+- thirty-first = 31日 / 第31
+
+---
+
+# PAGE 2 — p44-63 残り
+
+## My Treasure
+- o'clock = 〜時
+- that's = that is
+- isn't = is not
+- we're = we are
+- Japanese-style = 日本風の
+- from = 〜から
+- that = あれ / それ
+- we = 私たち
+- azuki ice cream = あずきアイス
+- chocolate ice cream = チョコレートアイス
+- matcha ice cream = 抹茶アイス
+- cucumber = きゅうり
+- tomato = トマト
+- ice cream shop = アイスクリーム店
+- many flavors = たくさんの味
+- new = 新しい
+- open from ten o'clock = 10時から開いている
+- torii = 鳥居
+- white fox = 白いキツネ
+- Inari shrine = 稲荷神社
+- you're = you are
+- correct = 正しい
+- almost = ほとんど / もう少し
+- wrong = 間違った
+- what's = what is
+- musical = 音楽の
+- little = 小さい
+- right = 正しい / 右
+- chai = チャイ
+- Ganesha = ガネーシャ
+- sitar = シタール
+- Correct! = 正解！
+- Almost right! = ほぼ正解！
+- Wrong! = 不正解！
+- who's = who is
+- him = 彼を / 彼に
+- very much = とても
+- idea = 考え / アイデア
+- who = 誰
+- much = たくさん / とても
+- know = 知っている
+- friendly = 親しみやすい
+- funny = おもしろい
+- study Japanese = 日本語を勉強する
+- maybe = たぶん
+- carry = 運ぶ
+- come = 来る
+- draw = 描く
+- live = 住む
+- Let's ... = 〜しよう
+- Don't ... = 〜するな / 〜しないで
+- Be careful. = 気をつけて
+- late = 遅い
+- how many = いくつの
+- when = いつ
+- where = どこ
+
+## Take Action / City Map
+- man / men = 男性 / 男性たち
+- excuse me = すみません
+- get to = 〜へ着く / 行く
+- then = それから
+- Thank you. = ありがとう
+- where's = where is
+- thank = 感謝する / ありがとう
+- How can I get to ...? = 〜へはどう行けばいいですか
+- Where is ...? = 〜はどこですか
+- go straight = まっすぐ行く
+- turn left = 左に曲がる
+- turn right = 右に曲がる
+- at the second corner = 2つ目の角で
+- on your right = 右手に
+- on your left = 左手に
+- hour = 時間 / 時
+- court = コート / 中庭
+- closed = 閉まっている
+- weekday(s) = 平日
+- exhibition = 展示
+- garden = 庭
+- Central Station = 中央駅
+- Korean = 韓国の / 韓国語
+- taxi stand = タクシー乗り場
+- under construction = 工事中
+- call = 電話する / 呼ぶ
+- before = 〜の前に
+- 2-minute walk = 徒歩2分
+- supermarket = スーパーマーケット
+- Thai restaurant = タイ料理店
+- city hospital = 市立病院
+- green park = グリーンパーク
+
+## Summer
+- curry and rice = カレーライス
+- fishing = 釣り
+- swimming = 水泳
+- see movies = 映画を見る
+- with my friends = 友達と
+- with my family = 家族と
+- by myself = 一人で
+- in Okinawa = 沖縄で
+- at the beach = 海辺で
+- last year = 去年
+- last August = 去年の8月
+- myself = 私自身
+- last = この前の / 最後の
+- Mt. = 〜山
+- top = 頂上
+- thick = 厚い
+- so = とても / だから
+- also = 〜もまた
+- family = 家族
+- by = 〜によって / 〜で
+- year = 年
+- for = 〜のために / 〜の間
+- beautiful = 美しい
+- steak = ステーキ
+- Mr. = 〜さん（男性）
+- baby = 赤ちゃん
+- cream cheese = クリームチーズ
+- want = 欲しい / 〜したい
+- kabuki = 歌舞伎
+- rakugo = 落語
+- Korean food = 韓国料理
+- shopping = 買い物
+- Seattle = シアトル
+- Seattle Dog = シアトルドッグ
+- lemon = レモン
+
+## Food Court
+- boiled = ゆでた
+- fried garlic = 揚げにんにく
+- dollar(s) = ドル
+- free = 無料の
+- mixed = 混ぜた
+- onion = たまねぎ
+- sausage = ソーセージ
+- mixed vegetables = ミックス野菜
+- would = would（丁寧な表現で使う）
+- tuna = ツナ
+- anything = 何か
+- pick = 選ぶ / 取る
+- pick up = 受け取る
+- orange juice = オレンジジュース
+- French fries = フライドポテト
+- ham and egg = ハムエッグ
+- tuna with lettuce = レタス入りツナ
+- bacon with tomato = トマト入りベーコン
+- What would you like? = 何になさいますか
+- I'd like ... = 〜をください
+- Do you want anything with it? = 何か一緒にいりますか
+- How much is the total? = 合計はいくらですか
+
+## 位置づけ
+- DAY18 + DAY19単語シートで重要語・Starter・主要名詞はかなり回収済み。
+- このDAY20残りシートを加えると、**語彙INDEXに載せた語・語句は、重複・純粋な文法機能語を除き、ほぼ全項目へ少なくとも一度直接接触**する。
+- ただし、本番前日にこれら全部を日本語→英語で暗記することは目的にしない。ここは英語→意味の認識だけでよい。
